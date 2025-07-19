@@ -13,7 +13,7 @@ Kullanıcı dostu arayüzü ile satışlarınızı, borç ve alacaklarınızı t
 ---
 
 ## 🚀 Özellikler
-
+- Şifre Korumalı Varsayılan Şifre: ziya37
 - Müşteri adı, borç miktarı ve tarih kaydı yapabilme  
 - Var olan müşteri bilgilerini güncelleme ve silebilme  
 - Ad ile hızlı arama ve filtreleme  
