@@ -42,10 +42,9 @@ Kullanıcı dostu arayüzü ile satışlarınızı, borç ve alacaklarınızı t
 
 ## 💡 Kullanım
 
-1. [Setup dosyasını](Setup/SatisTakipSetup.exe) indirip çalıştırarak uygulamayı bilgisayarınıza kurun.  
-2. Programı açın, yeni müşteriler ekleyin veya var olanları düzenleyin.  
-3. Borç takibini kolayca yapın, toplam borcu anlık görün.  
-4. İstediğiniz zaman arama çubuğundan isim ile hızlı filtreleme yapabilirsiniz.
+1. Programı açın, yeni müşteriler ekleyin veya var olanları düzenleyin.  
+2. Borç takibini kolayca yapın, toplam borcu anlık görün.  
+3. İstediğiniz zaman arama çubuğundan isim ile hızlı filtreleme yapabilirsiniz.
 
 ---
 
